@@ -6,13 +6,13 @@
 
 
 <p align=center> 
-<i> I'm an undergraduate student who is currently studying Data Science & Analytics at the university of Portsmouth
+<i> I'm an undergraduate student who is currently studying Data Science & Analytics at the University of Portsmouth
   <p align=center>
  </i></p>
 </p>
 
 
-Programming lanuages that I am familiar with 💻
+### Programming lanuages that I am familiar with 💻
 - Python 🐍
 - SQL 📅
 - R 📊
@@ -28,7 +28,7 @@ Programming lanuages that I am familiar with 💻
 
 
 ### How to reach me 📫
-- 📷 Check out my [Instagram](www.) to follow my journey 
+- 📷 Check out my [Instagram](www.) page to follow my journey 
 - 📳 Sharing updates on [LinkedIn](www.) and [Twitter](www.)
 - 📧 Pop me an email if you want to contact me direclty [chantej@hotmail.co.uk](chantej@hotmail.co.uk)
 
