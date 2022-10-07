@@ -11,8 +11,12 @@
  </i></p>
 </p>
 
-### My degree 🏫
-- 🧠 I’m currently learning to ______________________________
+
+Programming lanuages that I am familiar with 
+- Python 
+- SQL 
+- R 
+- JAVA
 
 ### What else do I get up to? (besides my degree) 👀
   
