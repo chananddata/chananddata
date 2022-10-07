@@ -24,7 +24,7 @@
 
 [Medium ]( https://medium.com/), [The Verge](https://www.theverge.com/) & [Technology | The Guardian](https://www.theguardian.com/uk/technology)
 
-- 🧱 I'm in the process of building my own website where I'll be able to showcase my projects!
+- 🧱 I'm in the process of building my portfolio where I'll be able to showcase my projects!
 
 
 ### How to reach me 📫
