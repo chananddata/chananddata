@@ -20,7 +20,7 @@
 
 ### What else do I get up to? (besides my degree) 👀
   
-- 🌱 I’m always working towards expanding my knowledge on the industry by keeping up to date with the latest tech news from:
+- 🌱 I’m constantly looking for ways to expand my knowledge on the industry by keeping up to date with the latest tech news from:
 
 [Medium ]( https://medium.com/), [The Verge](https://www.theverge.com/) & [Technology | The Guardian](https://www.theguardian.com/uk/technology)
 
